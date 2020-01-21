@@ -5,7 +5,7 @@
 <title>Hello</title>
 </head>
 <body>
-<h1>Hello to Me Andrei</h1>
+<h1>Hello to Me Andrei Ciobanu</h1>
 <p>Laravel {{App::VERSION()}}</p>
 </body>
 </html>
